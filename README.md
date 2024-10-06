@@ -6,7 +6,7 @@
 I currently have an Associate of Science in Computer Science  
 Pursuing Bachelor of Science in Computer Science | 75% Completed
 
-**Languages and Tools**
+# Languages and Tools
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50" style="padding-right:10px;" />
