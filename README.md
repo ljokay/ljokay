@@ -23,16 +23,30 @@ Pursuing Bachelor of Science in Computer Science | 75% Completed
 # About Me
 
 <p>
-  Hey, I’m Landen, a dedicated Software Developer and Computer Science student looking for more opportunities to drive my passion for creating innovative and efficient solutions. I currently hold an Associate of Science in Computer Science and am pursuing my Bachelor of Science.
+ Hey, I'm Landen, a dedicated Software Developer and Computer Science student looking for more opportunities to drive my passion for creating innovative and efficient solutions. I currently hold an Associate of Science in Computer Science, and am currently pursing my Bachelor of Science. My expertise lies in both front-end and back-end development, specializing in:
+Languages:
+<ul>
+  <li>JavaScript</li>
+  <li>HTML/CSS</li>
+  <li>Java</li>
+  <li>C#</li>
+  <li>Dart</li>
+  <li>C</li>
+  <li>Python</li>
+</ul>
+Libraries:
+<ul>
+  <li>React</li>
+  <li>Flutter</li>
+  <li>.NET</li>
+  <li>SQL/MySQL</li>
+  <li>SQL Server</li>
+</ul>
 
-My expertise lies in both front-end and back-end development, specializing in:
-
-Languages: JavaScript, HTML, CSS, Java, C#, Dart
-Frameworks & Libraries: React, Flutter, .NET
-Databases: MySQL, SQL Server
-I thrive on challenges and enjoy expanding my skill set, currently diving deeper into C# and .NET technologies. My goal is to contribute to projects that enhance user experiences and drive successful outcomes.
+<p>
+  I thrive on challenges and enjoy expanding my skill set, currently diving deeper into C# and .NET technologies. My goal is to contribute to projects that enhance user experiences and drive successful outcomes.
 
 When I'm not coding, I love exploring new technologies, participating in coding communities, and continuously learning to stay updated with industry trends. I’m actively looking for software developer opportunities where I can apply my skills and grow as a professional.
 
-Feel free to check out my projects, and don’t hesitate to reach out for collaboration or networking!
+Feel free to check out my projects, and don’t hesitate to reach out for collaboration or networking! 
 </p>
