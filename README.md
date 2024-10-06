@@ -24,6 +24,8 @@ Pursuing Bachelor of Science in Computer Science | 75% Completed
 
 <p>
  Hey, I'm Landen, a dedicated Software Developer and Computer Science student looking for more opportunities to drive my passion for creating innovative and efficient solutions. I currently hold an Associate of Science in Computer Science, and am currently pursing my Bachelor of Science. My expertise lies in both front-end and back-end development, specializing in:
+
+
 Languages:
 <ul>
   <li>JavaScript</li>
